@@ -1,6 +1,6 @@
 - 👋 Hi, I’m = @yilmaz-kilinc
 - 👀 I’m interested in = SAP ABAP and C#
-- 🌱 I’m currently learning = C#
+- 🌱 I’m currently learning = C# and ABAP
 - 📫 How to reach me = yilmazkilinc@outlook.com.tr
 
 <!---
